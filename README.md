@@ -1,0 +1,2 @@
+# PicStorage
+Only for PicGo
